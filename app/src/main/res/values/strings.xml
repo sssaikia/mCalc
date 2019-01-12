@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mCalc</string>
+    <string name="help">Enter the negative and positive factor first.\nClick right button for every right answer and worng button for a wrong answer.\nThe calculated marks wiil be displayed immediately.\nsimplified life.\nClick reset to start over.</string>
+</resources>
